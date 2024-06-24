@@ -4,7 +4,7 @@
     width="300"
 />
 
-Você pode ver o PodCast aqui:(https://www.notion.so/crisleikeli/PAS-Podcast-AI-Studio-26263c4aef7c4bb088e9f6d1dd431d66)
+Você pode escutar o PodCast aqui:[Jornada do Pinguim: Aventuras na Terra do Open Source](https://file.notion.so/f/f/3ec1be94-52ac-4845-adf7-f873e65842dc/9ce8dbfd-9413-4df5-8b7e-9ed61d88aff1/PodcastEditado_(online-audio-converter.com).mp3?id=dec0d7df-e572-46e8-8771-99bfc1a89e18&table=block&spaceId=3ec1be94-52ac-4845-adf7-f873e65842dc&expirationTimestamp=1719360000000&signature=bClkKj5WZcSjmBGZCM-UGL_k3_hw5gXx6X1tOontp4s&downloadName=Jornada+do+Pinguim%3A+Aventuras+na+Terra+do+Open+Source.mp3)
 
 # Projeto Podcast Gerado por I.A.s
 
