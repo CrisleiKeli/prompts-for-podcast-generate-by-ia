@@ -3,21 +3,15 @@
     src="assets/etmjfvhzwbg2w3hponqx.png"
     width="300"
 />
+
 </p>
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</p>
-
-<p align="center">
-    preview do podcast
-</p>
-
+    Preview do PodCast
 <div align="center">
     <audio src="output/PodcastEditado (online-audio-converter.com).mp3"></audio>
 </div>
+</p>
+
 
 # Projeto Podcast Gerado por I.A.s
 
