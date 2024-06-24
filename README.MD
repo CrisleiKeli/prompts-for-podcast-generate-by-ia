@@ -8,7 +8,8 @@
 <p align="center">
     Preview do PodCast
 <div align="center">
-    src="output/PodcastEditado (online-audio-converter.com).mp3"
+    <audio 
+src="output/PodcastEditado (online-audio-converter.com).mp3"
 </div>
 </p>
 
