@@ -4,15 +4,7 @@
     width="300"
 />
 
-</p>
-<p align="center">
-    Preview do PodCast
-<div align="center">
-    <audio 
-src="output/PodcastEditado (online-audio-converter.com).mp3"
-</div>
-</p>
-
+Você pode ver o PodCast aqui:(https://www.notion.so/crisleikeli/PAS-Podcast-AI-Studio-26263c4aef7c4bb088e9f6d1dd431d66)
 
 # Projeto Podcast Gerado por I.A.s
 
