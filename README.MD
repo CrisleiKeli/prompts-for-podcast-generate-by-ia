@@ -1,5 +1,10 @@
 <p align="center">
-    preview do podcast
+<img 
+    src="./assets/cover.pngassets/etmjfvhzwbg2w3hponqx.png"
+    width="300"
+/>
+</p>
+
 </p>
 
 <div align="center">
